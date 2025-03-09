@@ -10,6 +10,13 @@ A Streamlit application for healthcare providers to select wound care treatments
 - Docker containerization for easy deployment
 - Mobile-friendly design
 
+## Version History
+
+- Initial Commit on 2025-03-09:
+   * Base application logic flow and local video playback implemented
+   * To Do: Test S3 Integration and Feature Extensions (e.g. LLM Q&A)
+   * Application Refactoring to support additional decision paths. Improve modularization.
+
 ## Project Structure
 
 ```
